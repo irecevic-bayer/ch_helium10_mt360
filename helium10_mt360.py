@@ -290,13 +290,13 @@ def make_api_call(mt360id, period, type_of_report, start_date, end_date):
     return response
 
 def period_to_run():
-    # today = datetime.now()
-    today = datetime(2022, 6, 2)
+    today = datetime.now()
+    #today = datetime(2022, 6, 2)
     # manipulate with starting date of download, default is 26 weeks (or 182 days)
     # length_of_period = 128
-    length_of_period = 2*7*52+4
+    length_of_period = 188
     first_day_of_month = today.replace(day=1)
-    first_week_of_month = [first_day_of_month + timedelta(days=i) for i in range(7)]
+    first_week_of_month = [first_day_of_month + timedelta(days=i) for i in range(16)]
     
     # Determine periods
     last_week = (today - timedelta(days=1)).strftime('%Y-%m-%d')
