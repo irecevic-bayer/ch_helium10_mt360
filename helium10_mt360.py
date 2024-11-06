@@ -50,64 +50,84 @@ segments_to_download = [
       "segment_type":"subcategory",
       "segment_name": "Diet_Nutrition",
       "country": "UK",
-      "mt360id": 192080
+      "mt360id": 192080,
+      "1p": 264503,
+      "3p":264504
     },
     {
         "segment_type":"subcategory",
     "segment_name": "VMS",
     "country": "UK",
-    "mt360id": 173153
+    "mt360id": 173153,
+      "1p": 264506,
+      "3p":264507
     },
     {
         "segment_type":"subcategory",
     "segment_name": "VMS",
     "country": "ES",
-    "mt360id": 173155
+    "mt360id": 173155,
+      "1p": 264514,
+      "3p":264515
     },
     {
         "segment_type":"subcategory",
     "segment_name": "Diet_Nutrition",
     "country": "ES",
-    "mt360id": 192082
+    "mt360id": 192082,
+      "1p": 264512,
+      "3p":264513
     },
     {
         "segment_type":"subcategory",
     "segment_name": "Diet_Nutrition",
     "country": "IT",
-    "mt360id": 192084
+    "mt360id": 192084,
+      "1p": 264520,
+      "3p":264521
     },
     {
         "segment_type":"subcategory",
     "segment_name": "VMS",
     "country": "IT",
-    "mt360id": 173157
+    "mt360id": 173157,
+      "1p": 264522,
+      "3p":264523
     },
     {
         "segment_type":"subcategory",
     "segment_name": "Diet_Nutrition",
     "country": "FR",
-    "mt360id": 192083
+    "mt360id": 192083,
+      "1p": 264516,
+      "3p":264517
     },
     
-    {
-        "segment_type":"subcategory",
-    "segment_name": "Diet_Nutrition",
-    "country": "DE",
-    "mt360id": 192081
-    },
-    
-    {
-        "segment_type":"subcategory",
-    "segment_name": "VMS",
-    "country": "DE",
-    "mt360id": 173154
-    },
 
     {
         "segment_type":"subcategory",
     "segment_name": "VMS",
     "country": "FR",
-    "mt360id": 173156
+    "mt360id": 173156,
+      "1p": 264518,
+      "3p":264519
+    },
+    {
+        "segment_type":"subcategory",
+    "segment_name": "Diet_Nutrition",
+    "country": "DE",
+    "mt360id": 192081,
+      "1p": 264508,
+      "3p":264509
+    },
+    
+    {
+        "segment_type":"subcategory",
+    "segment_name": "VMS",
+    "country": "DE",
+    "mt360id": 173154,
+      "1p": 264510,
+      "3p":264511
     }
   ]
 
